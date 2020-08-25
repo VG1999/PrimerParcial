@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Compras.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Conexion.Factura.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\RentaDeVideos.formularioFondoPrincipal.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Productos.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
